@@ -28,3 +28,11 @@ In this projects the task was to take users input about how many weeks they have
 
 ![hours-result](https://github.com/Slaveev/CS50/assets/114510055/375c3258-77ba-4c0e-888f-30a0b14f6975)
 
+
+the password project to check if theres an uppercase lowercase number and symbol
+
+
+
+![password-result](https://github.com/Slaveev/CS50/assets/114510055/0d4e06e4-c4e2-462e-ba82-b139580acd42)
+
+
