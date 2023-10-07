@@ -1,14 +1,17 @@
 # CS50
 
 This is the projects and practice projects i had to make during the CS50 course
+Basically in this course you study C, Python and JS.
 
-Some of the projects i made without their library <cs50.h> 
 
-Here are some of the results:
+
+Here are some of the C projects:
 
 First pset they gave you to make a mario pyramid using nested for loops
 
 ![pyramid-result](https://github.com/Slaveev/CS50/assets/114510055/8903a764-3592-4a6a-bf86-6b8510f3cfb9)
+
+
 
 
 
